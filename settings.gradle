@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "composelabs2"
+rootProject.name = "codelabs2"
 include ':app'

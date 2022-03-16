@@ -1,4 +1,4 @@
-package will.shiro.composelabs2
+package will.shiro.codelabs2
 
 import org.junit.Test
 
